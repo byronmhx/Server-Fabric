@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-04-11 17:27:11 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-11 17:27:11 +0000",
+      "minecraft:forest": "2025-04-14 03:32:44 +0000"
     },
     "done": false
   },
