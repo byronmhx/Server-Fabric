@@ -102,3 +102,7 @@
 [04:53:11] [Server thread/INFO]: katvi_11[/100.66.64.8:50058] logged in with entity id 2698 at (-270.5, 102.0, 129.5)
 [04:53:11] [Server thread/INFO]: katvi_11 joined the game
 [05:02:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-279, y=122, z=-18} class_2338{x=-280, y=121, z=-17}
+[05:37:27] [Server thread/INFO]: byronmhx lost connection: Disconnected
+[05:37:27] [Server thread/INFO]: byronmhx left the game
+[05:37:28] [Server thread/INFO]: katvi_11 lost connection: Disconnected
+[05:37:28] [Server thread/INFO]: katvi_11 left the game
