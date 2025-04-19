@@ -99,3 +99,5 @@
 [04:19:54] [Server thread/INFO]: byronmhx joined the game
 [04:20:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-251, y=103, z=119} class_2338{x=-251, y=101, z=120}
 [04:20:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-256, y=101, z=125} class_2338{x=-256, y=101, z=124}
+[04:53:11] [Server thread/INFO]: katvi_11[/100.66.64.8:50058] logged in with entity id 2698 at (-270.5, 102.0, 129.5)
+[04:53:11] [Server thread/INFO]: katvi_11 joined the game
