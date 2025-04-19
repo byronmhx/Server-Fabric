@@ -7,9 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-04-19 05:27:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 17:27:11 +0000",
       "minecraft:forest": "2025-04-14 03:32:44 +0000",
       "minecraft:cherry_grove": "2025-04-14 04:59:52 +0000",
+      "minecraft:river": "2025-04-19 05:26:39 +0000",
       "minecraft:dripstone_caves": "2025-04-19 05:01:09 +0000",
       "minecraft:plains": "2025-04-14 05:00:35 +0000"
     },
@@ -826,6 +828,24 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-19 04:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-19 05:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-19 05:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-19 05:20:58 +0000"
     },
     "done": true
   },
