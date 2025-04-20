@@ -373,6 +373,7 @@
       "cooked_porkchop": "2025-04-14 04:27:02 +0000",
       "apple": "2025-04-20 04:28:05 +0000",
       "bread": "2025-04-14 05:15:39 +0000",
+      "cooked_chicken": "2025-04-20 04:50:51 +0000",
       "cooked_mutton": "2025-04-14 04:21:34 +0000"
     },
     "done": false
@@ -922,6 +923,18 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-20 04:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-20 04:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-20 04:53:41 +0000"
     },
     "done": true
   },
